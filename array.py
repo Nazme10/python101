@@ -16,8 +16,8 @@ print(f'Hello {names[3]}, How are you today?')
 print(f'Hello {names[4]}, How are you today?')
 
 #3-3
-cars = ['Mercedes','BMW','Bentley']
-print(f'I would like to own a {cars[0]}.')
-print(f'I would like to own a {cars[1]}.')
-print(f'I would like to own a {cars[2]}.')
+cars = ['Mercedes','Bmw','Bentley']
+print(f'I would like to own a {cars[0].upper()}.')
+print(f'I would like to own a {cars[1].upper()}.')
+print(f'I would like to own a {cars[2].upper()}.')
 
