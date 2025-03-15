@@ -42,7 +42,7 @@ print()
 #3-9
 
 people = ["Sang Yang", "Ko Gyeom", "Wei Yifan"]
-print(f"Total number of people invited: {len(people)}")
+print(f"Total people invited: {len(people)}")
 
 
 
