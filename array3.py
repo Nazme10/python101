@@ -38,6 +38,7 @@ print("In reverse alphabetical order:", places)
 print()
 print()
 print()
+print()
 #3-9
 
 people = ["Sang Yang", "Ko Gyeom", "Wei Yifan"]
