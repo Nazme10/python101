@@ -1,7 +1,7 @@
 
 rivers = {
     'nile': 'egypt',
-    'amazon': 'brazil',
+    'han': 'seoul',
     'buriganga': 'dhaka'
 }
 for river, country in rivers.items():
