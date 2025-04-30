@@ -25,7 +25,7 @@ while True:
 #7-6
 #a)
 num=10
-while num <= 15
+while num <= 15 :
   print(f"The number is {num}")
   num +=1
 
@@ -40,7 +40,7 @@ while variable:
         variable = False
 
 #c)
-hile True:
+while True:
     topping = input("Enter a pizza topping: ")
     if topping == 'quit':
         break
@@ -49,6 +49,6 @@ hile True:
 
 #7-7
 
-while True:
+#while True:
 
 
