@@ -1,4 +1,3 @@
-
 def show_messages(messages):
     for msg in messages:
         print(msg)
